@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.27e41d0d.css",
-    "main.js": "/static/js/main.3756ac06.js",
-    "static/js/787.612b19a2.chunk.js": "/static/js/787.612b19a2.chunk.js",
-    "static/media/logo-g.png": "/static/media/logo-g.86a17fb14879a26d9cc6.png",
-    "static/media/logo-gs.png": "/static/media/logo-gs.0f9fd71de9061cdce868.png",
-    "static/media/covid-exp.png": "/static/media/covid-exp.10ef1142c959c0428bb0.png",
-    "static/media/pass-gen.png": "/static/media/pass-gen.2c016a6bc0d8fbd58e69.png",
-    "static/media/logo-simon.png": "/static/media/logo-simon.9028586f76c07e783452.png",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/code-quiz.png": "/static/media/code-quiz.eebc316666c52165e8da.png",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.27e41d0d.css.map": "/static/css/main.27e41d0d.css.map",
-    "main.3756ac06.js.map": "/static/js/main.3756ac06.js.map",
-    "787.612b19a2.chunk.js.map": "/static/js/787.612b19a2.chunk.js.map"
+    "main.css": "/React-Folio/static/css/main.5b0a37a9.css",
+    "main.js": "/React-Folio/static/js/main.27f6a8ff.js",
+    "static/js/787.612b19a2.chunk.js": "/React-Folio/static/js/787.612b19a2.chunk.js",
+    "static/media/logo-g.png": "/React-Folio/static/media/logo-g.86a17fb14879a26d9cc6.png",
+    "static/media/logo-gs.png": "/React-Folio/static/media/logo-gs.0f9fd71de9061cdce868.png",
+    "static/media/covid-exp.png": "/React-Folio/static/media/covid-exp.10ef1142c959c0428bb0.png",
+    "static/media/pass-gen.png": "/React-Folio/static/media/pass-gen.2c016a6bc0d8fbd58e69.png",
+    "static/media/logo-simon.png": "/React-Folio/static/media/logo-simon.9028586f76c07e783452.png",
+    "static/media/helvetica-neu.ttf": "/React-Folio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/code-quiz.png": "/React-Folio/static/media/code-quiz.eebc316666c52165e8da.png",
+    "static/media/LaBelleAurore.woff2": "/React-Folio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/React-Folio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/React-Folio/index.html",
+    "main.5b0a37a9.css.map": "/React-Folio/static/css/main.5b0a37a9.css.map",
+    "main.27f6a8ff.js.map": "/React-Folio/static/js/main.27f6a8ff.js.map",
+    "787.612b19a2.chunk.js.map": "/React-Folio/static/js/787.612b19a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27e41d0d.css",
-    "static/js/main.3756ac06.js"
+    "static/css/main.5b0a37a9.css",
+    "static/js/main.27f6a8ff.js"
   ]
 }
