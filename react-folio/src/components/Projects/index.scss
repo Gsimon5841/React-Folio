@@ -1,0 +1,16 @@
+.project-container{
+    
+        display: block;
+        padding: 8px 0;
+    
+        .img {
+          display: block;
+          margin-left: 668px ;
+          width: 350px;
+          height: auto;
+    
+          &.sub-logo {
+            width: 125px;
+          }
+        }
+}

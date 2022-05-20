@@ -1,6 +1,6 @@
 .nav-bar {
     background: #181818;
-    width: 60px;
+    width: 125px;
     height: 100%;
     position: absolute;
     top: 0;
@@ -14,11 +14,11 @@
       img {
         display: block;
         margin: 8px auto;
-        width: 24px;
+        width: 50px;
         height: auto;
   
         &.sub-logo {
-          width: 50px;
+          width: 125px;
         }
       }
     }
@@ -33,10 +33,10 @@
       width: 100%;
   
       a {
-        font-size: 22px;
+        font-size: 30px;
         color: #4d4d4e;
         display: block;
-        line-height: 51px;
+        line-height: 55px;
         height: 51px;
         position: relative;
         text-decoration: none;
@@ -59,7 +59,7 @@
   
         &:after {
           content: '';
-          font-size: 9px;
+          font-size: 15px;
           letter-spacing: 2px;
           position: absolute;
           bottom: 0;
@@ -75,6 +75,11 @@
           &:after {
             content: 'HOME';
           }
+        }
+      }
+      a.projects-link {
+        &:after {
+          content: 'PROJECTS';
         }
       }
   
@@ -111,7 +116,7 @@
         a {
           padding: 7px 0;
           display: block;
-          font-size: 15px;
+          font-size: 40px;
           line-height: 16px;
           color: #4d4d4e;
   
