@@ -1,7 +1,7 @@
 {
   "name": "react-folio",
   "version": "0.1.0",
-  "homepage": "https://Gsimon5841.github.io/React-Folio/",
+  "homepage": "https://gsimon5841.github.io/React-Folio/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
