@@ -11,11 +11,7 @@ const Home = () => {
     const nameArray =['e','o','r','g','e','s']
     const jobArray = ['I', "'m", ' ', 'a', ' ', 'w', 'e','b', ' ', 'd','e','v','e','l','o','p','e','r']
 
-    // useEffect(() => {
-    //     return setTimeout(() => {
-    //       setLetterClass('text-animate-hover')
-    //     }, 4000)
-    //   }, [])
+
 
     return (
         <div className="container home-page"> 
