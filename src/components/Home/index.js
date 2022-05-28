@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import G from '../../assets/images/logo-g.png'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
-import Loader from 'react-loaders'
 
 
 const Home = () => {
