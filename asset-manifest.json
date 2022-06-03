@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/React-Folio/static/css/main.5b0a37a9.css",
-    "main.js": "/React-Folio/static/js/main.5764ab84.js",
+    "main.css": "/React-Folio/static/css/main.581389b0.css",
+    "main.js": "/React-Folio/static/js/main.2ec8eb3f.js",
     "static/js/787.612b19a2.chunk.js": "/React-Folio/static/js/787.612b19a2.chunk.js",
+    "static/media/DevHub.png": "/React-Folio/static/media/DevHub.78e0978b8c19122bc207.png",
     "static/media/logo-g.png": "/React-Folio/static/media/logo-g.86a17fb14879a26d9cc6.png",
     "static/media/logo-gs.png": "/React-Folio/static/media/logo-gs.0f9fd71de9061cdce868.png",
     "static/media/covid-exp.png": "/React-Folio/static/media/covid-exp.10ef1142c959c0428bb0.png",
@@ -13,12 +14,12 @@
     "static/media/LaBelleAurore.woff2": "/React-Folio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/React-Folio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/React-Folio/index.html",
-    "main.5b0a37a9.css.map": "/React-Folio/static/css/main.5b0a37a9.css.map",
-    "main.5764ab84.js.map": "/React-Folio/static/js/main.5764ab84.js.map",
+    "main.581389b0.css.map": "/React-Folio/static/css/main.581389b0.css.map",
+    "main.2ec8eb3f.js.map": "/React-Folio/static/js/main.2ec8eb3f.js.map",
     "787.612b19a2.chunk.js.map": "/React-Folio/static/js/787.612b19a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b0a37a9.css",
-    "static/js/main.5764ab84.js"
+    "static/css/main.581389b0.css",
+    "static/js/main.2ec8eb3f.js"
   ]
 }
