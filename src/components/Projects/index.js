@@ -3,6 +3,7 @@ import CovidExp from '../../assets/images/covid-exp.png'
 import CodeQuiz from '../../assets/images/code-quiz.png'
 import './index.scss'
 import PassGen from '../../assets/images/pass-gen.png'
+import DevHub from '../../assets/images/DevHub.png'
 
 
 
@@ -12,12 +13,20 @@ class Projects extends Component {
         return (<>
         <div className='project-container' to='/'>
             <span>
-                <a href='https://github.com/zk229/covid-exposure' target='_blank'>
+                <a href='https://github.com/Marcus0224/DevHub/tree/main' target='_blank'>
 
-            <img className='img' src={CovidExp} alt = "project"  />
+            <img className='img' src={DevHub} alt = "project"  />
                 </a>
 
             </span>
+            <div>
+                <span>
+
+                </span>
+                <a href='https://whispering-island-67364.herokuapp.com' target='_blank'>
+                <h1 className='group-three'>DevHub Group 3 Project</h1>
+                 </a>
+            </div>
         </div>
 
         <div className='project-container' to='/'>
